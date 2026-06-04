@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(161, 209, 215);
+    text-align: center;
+}
+
+ul {
+    border: 5px solid white;
+    margin: 0px 700px;
+    padding: 20px;
+}
